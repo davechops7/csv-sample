@@ -16,4 +16,4 @@ After some research, reading and playing around with code I think the GO standar
 Customisable csv Reader/Writer.
 
 [easycsv](https://github.com/yunabe/easycsv):
-- Read focused.
+- Read focused only.
